@@ -1,4 +1,5 @@
 Daftar Agenda Lab POSI :
  - Mengampu Praktikum Gamtek
  - Mengampu Praktikum Prokom
- - Mengampu apa lagi
+ - Mengampu PPTI 1
+ - Mengampu PPTI 2
